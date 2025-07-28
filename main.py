@@ -23,7 +23,7 @@ CLIENT_ID = os.getenv('DISCORD_CLIENT_ID', '1397029960933445683')
 CLIENT_SECRET = os.getenv('DISCORD_CLIENT_SECRET')
 
 # これをいじってね
-REDIRECT_URI = 'https://feff8af6-35a2-4af4-93da-320913c2c8fe-00-2vqp07smqvh0j.sisko.replit.dev/'
+REDIRECT_URI = 'https://quu.onrender.com/'
 # ここから下は弄らないでいい
 OAUTH_URL_BASE = 'https://discord.com/api/oauth2/authorize'
 TOKEN_URL = 'https://discord.com/api/oauth2/token'
